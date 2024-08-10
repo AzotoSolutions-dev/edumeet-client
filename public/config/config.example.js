@@ -138,7 +138,7 @@ var config = {
 	},
 
 	// The title to show if the logo is not specified.
-	title: 'edumeet',
+	title: 'MeetingChat',
 
 	// Client theme. Take a look at mui theme documentation.
 	theme: {
@@ -152,7 +152,7 @@ var config = {
 		appBarColor: '#313131', // AppBar background color
 		appBarFloating: true, // If true, the AppBar will be moved in a bit from the top and sides of the page
 		// If not null, it shows the logo loaded from the specified URL, otherwise it shows the title.
-		logo: 'images/logo.edumeet.svg',
+		logo: 'https://azotosolutions.com/billing/templates/lagom2/assets/img/logo/logo_big_inverse.144340204.png',
 		activeSpeakerBorder: '1px solid rgba(255, 255, 255, 1.0)',
 		videoBackroundColor: 'rgba(49, 49, 49, 0.9)',
 		videoAvatarImage: 'images/buddy.svg',
